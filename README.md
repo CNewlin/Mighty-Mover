@@ -27,3 +27,6 @@ MightyMover Motor Control System ​
 Image recognition for obstacle avoidance
 
 Software Hub Design and Battery Management.  ​
+
+![cap1](https://github.com/user-attachments/assets/93473229-8fa3-482c-a636-d4e305211b77)
+![Capture](https://github.com/user-attachments/assets/4c66b7c4-73e2-43a0-a6c5-71d9c95799a3)
